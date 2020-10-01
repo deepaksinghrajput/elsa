@@ -8,7 +8,7 @@ It's based on scripts from `PyLadies.cz repo <https://github.com/PyLadiesCZ/pyla
    :alt: Elsa
 
 
-Basic usage
+Basic uses
 -----------
 
 Create you Flask app and give it to ``elsa.cli()``:
